@@ -1,0 +1,7 @@
+{"Database": "FEDEMO",
+"Base_element": "FE",
+"Solutes": ["Ni"],
+"alloy_composition": [0.041],
+"Solid_phase": "BCC_A2",
+"Composition_unit": "mole",
+"File_name": "NiFe_delta_prop.json"}
