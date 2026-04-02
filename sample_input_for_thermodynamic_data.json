@@ -1,7 +1,7 @@
-{"Database": "FEDEMO",
+{"Database": "TCFE13",
 "Base_element": "FE",
-"Solutes": ["Ni"],
-"alloy_composition": [0.041],
+"Solutes": ["C", "Si", "Cr", "Mo", "V"],
+"alloy_composition": [0.007, 0.015, 0.04, 0.03, 0.015],
 "Solid_phase": "BCC_A2",
-"Composition_unit": "mole",
-"File_name": "NiFe_delta_prop.json"}
+"Composition_unit": "mass",
+"File_name": "IITDS_delta_prop.json"}
