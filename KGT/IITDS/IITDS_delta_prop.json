@@ -1,0 +1,8 @@
+{"Database": "TCFE13", 
+"Base_element": "FE", 
+"Solutes": ["Cr", "C", "Mo", "V", "Si"], 
+"Alloy_composition": [0.04, 0.007, 0.03, 0.015, 0.015], 
+"Solid_phase": "BCC_A2", "Composition_unit": "mass", 
+"File_name": "IITDS_delta_prop.json", 
+"Liquidus_temperature": 1712.63673030269, 
+"partition_coeff": [0.9098708133028627, 0.13235824885274916, 0.7508284067910513, 0.6272532270150375, 0.8419593933121697]}
