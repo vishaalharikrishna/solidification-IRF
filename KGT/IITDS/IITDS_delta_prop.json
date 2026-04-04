@@ -5,4 +5,4 @@
 "Solid_phase": "BCC_A2", "Composition_unit": "mass", 
 "File_name": "IITDS_delta_prop.json", 
 "Liquidus_temperature": 1712.63673030269, 
-"partition_coeff": [0.9098708133028627, 0.13235824885274916, 0.7508284067910513, 0.6272532270150375, 0.8419593933121697]}
+"partition_coeff": [0.909, 0.132, 0.751, 0.627, 0.842]}
