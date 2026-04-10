@@ -9,8 +9,8 @@
 "Diffusion_coefficient":[5e-9,5e-9,5e-9,5e-9],
 "Thermal_gradient":1E05,
 "Minimum_velocity":5E-5,
-"Maximum_velocity":0.9,
+"Maximum_velocity":2.0,
 "Step_velocity":5E-04,
 "Rguess_min_microns":0.1,
 "Rguess_max_microns":100.0,
-"Filename":"KGT_IITDS_Gamma.csv"}
+"Filename":"KGT_IITDS_Gamma2.csv"}

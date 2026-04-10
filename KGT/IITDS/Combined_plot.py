@@ -1,8 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df1 = pd.read_csv("F:\Vishaal\Misc\Python_codes\solidification-IRF\KGT\IITDS\KGT_IITDS_gamma\KGT_IITDS_Gamma.csv")
-df2 = pd.read_csv("F:\Vishaal\Misc\Python_codes\solidification-IRF\KGT\IITDS\KGT_IITDS_delta\KGT_IITDS_Delta.csv")
+df1 = pd.read_csv("F:\Vishaal\Misc\Python_codes\solidification-IRF\KGT\IITDS\KGT_IITDS_gamma\KGT_IITDS_Gamma2.csv")
+df2 = pd.read_csv("F:\Vishaal\Misc\Python_codes\solidification-IRF\KGT\IITDS\KGT_IITDS_delta\KGT_IITDS_Delta2.csv")
 
 plt.figure(figsize=(10, 6), dpi=600)
 
