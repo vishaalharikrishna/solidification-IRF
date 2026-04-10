@@ -6,9 +6,9 @@ df2 = pd.read_csv("F:\Vishaal\Misc\Python_codes\solidification-IRF\KGT\IITDS\KGT
 
 plt.figure(figsize=(10, 6), dpi=600)
 
-plt.plot(df1['v'], df1['T'], label='Alloy 1 (IITDS - Gamma)', color='blue', linewidth=2)
+plt.plot(df1['v'], df1['T'], label='IITDS - Gamma', color='blue', linewidth=2)
 
-plt.plot(df2['v'], df2['T'], label='Alloy 2 (IITDS - Delta)', color='red', linewidth=2)
+plt.plot(df2['v'], df2['T'], label='IITDS - Delta', color='red', linewidth=2)
 
 plt.xscale('log')
 plt.xlabel('Solidification Velocity (m/s)', fontsize=14)

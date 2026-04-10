@@ -1,4 +1,4 @@
-{"Alloy_composition":[0.04, 0.007, 0.03, 0.015],
+{"Alloy_composition":[0.007, 0.04, 0.03, 0.015],
 "Solutes":["C", "Cr", "Mo", "V"],
 "Eqm_partition_coefficient":[0.283, 0.880, 0.640, 0.43],
 "Eqm_liquidus_slope":[-6894.03, -229.83, -421.37, -774.47],
